@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://viephietho.bongnam-karaoke.com/sitemap.xml
